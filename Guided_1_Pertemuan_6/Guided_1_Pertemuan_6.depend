@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668474211 source:d:\program\guided_1_pertemuan_6\main.cpp
+	<iostream>
+	<iomanip>
+	<conio.h>
+

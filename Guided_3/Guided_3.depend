@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666661714 source:d:\program\guided_3\main.cpp
+	<iostream>
+	<conio.h>
+
